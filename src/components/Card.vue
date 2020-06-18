@@ -6,8 +6,6 @@
 export default {};
 </script>
 
-<style>
-#app {
-  font-family: Arial, Helvetica, sans-serif;
-}
+
+<style scoped>
 </style>
