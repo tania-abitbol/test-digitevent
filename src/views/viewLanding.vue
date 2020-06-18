@@ -1,9 +1,17 @@
 <template>
-  <div></div>
+  <div>
+    <Label />
+  </div>
 </template>
 
 <script>
-export default {};
+import Label from "@/components/Label.vue";
+export default {
+  name: "Landing",
+  components: {
+    Label
+  }
+};
 </script>
 
 <style >
